@@ -1,5 +1,5 @@
 # World-Map-Shortest-Path
-** Important Note: **This project is meant to be run in a 1366x768 screen, using it in any other resolution will make the gui look messy, but it will still run.
+** Important Note: ** This project is meant to be run in a 1366x768 screen, using it in any other resolution will make the gui look messy, but it will still run.
 
 ### Basic information about the project and GUI
 
