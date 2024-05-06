@@ -21,5 +21,5 @@ This project contains a custom made graph data structure with it's accompanying 
 
 Since the instructions prohibited the storing of a djisktra look up table, the shortest distances had to be calculated from scratch every time. To improve the speed of the look up table, I implemented some techniques from the princton univeristy website such as:
 
-*Applying a faster version of the queue, the fibonacci queue for djikstra
-*Stop the search after reaching the destination in djisktra, preventing the creation of djikstra table for every country.
+* Applying a faster version of the queue, the fibonacci queue for djikstra
+* Stop the search after reaching the destination in djisktra, preventing the creation of djikstra table for every country.
