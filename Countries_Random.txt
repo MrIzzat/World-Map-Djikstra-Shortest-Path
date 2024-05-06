@@ -1,0 +1,532 @@
+110,421
+Nablus,160,60
+Palestine,35.2332,31.9522
+Magadan,150.8128,59.5594
+Khabarovsk,135.0721,48.4814
+Amur Oblast,127.4802,54.6035
+Chukotka,171.6952,65.6298
+Sakha,124.1238,66.7613
+Komi,54.8313,63.8631
+Krasnoyarsk,92.8932,56.0153
+Maranhao,-45.6007,-5.0804
+Minas Gerais,-43.7908,-17.9302
+Durango,-104.6588,24.5593
+Georgia,-82.9001,32.1656
+Colombia,-74.2973,4.5709
+Ecuador,-78.1834,-1.8312
+Amazon Rainforest,-62.2159,-3.4653
+Sri Lanka,80.7718,7.8731
+Texas,-99.9018,31.9686
+Cuba,-77.7812,21.5218
+Guatemala,-90.2308,15.7835
+Panama,-80.7821,8.538
+Peru,-75.0152,-9.19
+Venezuela,-66.5897,6.4238
+Bolivia,-63.5887,-16.2902
+Paraguay,-58.4438,-23.4425
+Uruguay,-55.7658,-32.5228
+Argentina,-63.6167,-38.4161
+French Guiana,-53.1258,3.9339
+Falkland Islands,-59.5236,-51.7963
+Labrador City,-66.9153,52.9384
+Mexico City,-99.1332,19.4326
+Antartica,0.0,-90.0
+Japan,138.2529,36.2048
+Libya,17.2283,26.3351
+Simpson Desert,136.7435,-25.0466
+Greenland,-51.7373,64.1743
+South Africa,22.9375,-30.5595
+Washington DC,-77.0369,38.9072
+Otwa,-75.6972,45.4215
+Morocco,-7.0926,31.7917
+Algeria,1.6596,28.0339
+Tunisia,9.5375,33.8869
+Nigeria,8.6753,9.082
+Angola,17.8739,-11.2027
+Kenya,37.9062,-0.0236
+Yemen,48.5164,15.5527
+Oman,56.486341,20.578938
+Somalia,46.1996,5.1521
+India,78.9629,20.5937
+North Korea,127.5101,40.3399
+Vietnam,108.2772,14.0583
+Putorana State Natural Reserve,93.994,69.0347
+Lao,102.4955,19.8563
+Perth,115.8613,-31.9523
+New Zealand,174.886,-40.9006
+Indonesia,113.9213,-0.7893
+Philippines,121.774,12.8797
+Brunei,114.7277,4.5353
+Singapore,103.8198,1.3521
+Papua New Guinea,143.9555,-6.315
+Mali,-3.9962,17.5707
+Hawaii,-155.5828,19.8968
+Chicago,-87.6298,41.8781
+Kunming,102.8332,24.8797
+Kuwait,47.4818,29.3117
+North Congo,23.787997,1.361852
+Yukon,-135.0,64.2823
+Alaska,-149.4937,64.2008
+Nunavut,-83.1076,70.2998
+Yellowknife,-114.3718,62.454
+Nebraska,-99.9018,41.4925
+California,-119.4179,36.7783
+UK,-3.436,55.3781
+North Pole,0.0,90.0
+Iceland,-19.0208,64.9631
+France,2.2137,46.2276
+Portugal,-8.2245,39.3999
+Germany,10.4515,51.1657
+Sweden,18.6435,60.1282
+Moscow,37.6173,55.7558
+Yamalia,76.9345,66.0653
+Poland,19.1451,51.9194
+Romania,24.9668,45.9432
+Kazakhstan,66.9237,48.0196
+Turkey,35.2433,38.9637
+Afghanistan,67.71,33.9391
+Mongolia,103.8467,46.8625
+Beijing,116.4074,39.9042
+Sydney,151.2093,-33.8688
+Prince Regent National Park,125.3979,-15.5529
+Xinijiang,87.6271,43.7934
+Qinghai,101.7801,36.6209
+Bangladesh,90.3563,23.685
+Taiwan,120.9605,23.6978
+Shanghai,121.4737,31.2304
+Iraq,43.6793,33.2232
+Iran,53.688,32.4279
+Mecca,39.8579,21.3891
+Sudan,30.2176,12.8628
+Chad,18.7322,15.4542
+Madagascar,46.8691,-18.7669
+Guinea,-9.6966,9.9456
+Zimbabwe,29.1549,-19.0154
+Congo,21.7587,-4.0383
+Cairns,145.771,-16.9203
+Gabon,11.6094,-0.8037
+Edmonton,-113.4937,53.5461
+Regina,-104.6189,50.4452
+Churchill,-94.1696,58.7679
+Montana,-110.3626,46.8797
+Palestine,Alaska
+Palestine,Angola
+Palestine,Iceland
+Palestine,Sakha
+Palestine,Mali
+Palestine,Sweden
+Palestine,Algeria
+Magadan,New Zealand
+Magadan,North Pole
+Magadan,Guinea
+Magadan,Yukon
+Magadan,Churchill
+Magadan,India
+Magadan,Sakha
+Magadan,Bolivia
+Magadan,Japan
+Magadan,Congo
+Khabarovsk,Maranhao
+Khabarovsk,Papua New Guinea
+Khabarovsk,Afghanistan
+Khabarovsk,Mexico City
+Khabarovsk,North Pole
+Khabarovsk,Chicago
+Khabarovsk,Vietnam
+Khabarovsk,Beijing
+Khabarovsk,France
+Khabarovsk,Mongolia
+Amur Oblast,Sri Lanka
+Amur Oblast,Minas Gerais
+Amur Oblast,Vietnam
+Amur Oblast,Sweden
+Amur Oblast,Chicago
+Amur Oblast,Maranhao
+Amur Oblast,Cairns
+Amur Oblast,Ecuador
+Amur Oblast,Papua New Guinea
+Amur Oblast,Indonesia
+Chukotka,Philippines
+Chukotka,Prince Regent National Park
+Chukotka,Falkland Islands
+Chukotka,Kuwait
+Chukotka,Poland
+Chukotka,Argentina
+Sakha,Nigeria
+Sakha,Cuba
+Sakha,North Congo
+Sakha,Amazon Rainforest
+Sakha,Algeria
+Sakha,Oman
+Sakha,Guinea
+Sakha,Alaska
+Komi,Moscow
+Komi,North Congo
+Komi,Putorana State Natural Reserve
+Komi,Shanghai
+Komi,Venezuela
+Krasnoyarsk,Ecuador
+Krasnoyarsk,Tunisia
+Krasnoyarsk,California
+Krasnoyarsk,Bolivia
+Maranhao,Panama
+Maranhao,Perth
+Maranhao,Yellowknife
+Maranhao,Cairns
+Minas Gerais,Uruguay
+Minas Gerais,Mecca
+Minas Gerais,Morocco
+Minas Gerais,Bangladesh
+Minas Gerais,Kazakhstan
+Durango,Zimbabwe
+Durango,Alaska
+Durango,Colombia
+Durango,Uruguay
+Durango,French Guiana
+Durango,Greenland
+Durango,Madagascar
+Durango,Papua New Guinea
+Durango,Sudan
+Durango,Gabon
+Georgia,Somalia
+Georgia,Mexico City
+Georgia,France
+Georgia,Falkland Islands
+Georgia,California
+Georgia,Colombia
+Georgia,Germany
+Georgia,Xinijiang
+Georgia,Sri Lanka
+Georgia,Venezuela
+Georgia,Alaska
+Georgia,Yemen
+Colombia,Japan
+Colombia,Kunming
+Colombia,Portugal
+Colombia,Mexico City
+Colombia,Sudan
+Colombia,Simpson Desert
+Ecuador,Turkey
+Ecuador,Labrador City
+Ecuador,Angola
+Ecuador,Japan
+Ecuador,France
+Ecuador,Vietnam
+Ecuador,Edmonton
+Ecuador,Texas
+Ecuador,Indonesia
+Amazon Rainforest,Labrador City
+Amazon Rainforest,North Congo
+Amazon Rainforest,Uruguay
+Amazon Rainforest,French Guiana
+Amazon Rainforest,Guinea
+Sri Lanka,Sweden
+Sri Lanka,Antartica
+Sri Lanka,Tunisia
+Sri Lanka,Yellowknife
+Sri Lanka,Libya
+Sri Lanka,Mongolia
+Sri Lanka,Philippines
+Texas,Falkland Islands
+Texas,Philippines
+Texas,Zimbabwe
+Texas,Papua New Guinea
+Texas,North Korea
+Cuba,North Korea
+Cuba,Mongolia
+Cuba,Angola
+Cuba,Beijing
+Cuba,Yamalia
+Cuba,Somalia
+Cuba,Nigeria
+Cuba,Iraq
+Guatemala,Taiwan
+Guatemala,Sydney
+Guatemala,Yamalia
+Guatemala,Gabon
+Guatemala,Venezuela
+Guatemala,Paraguay
+Guatemala,Yemen
+Guatemala,Germany
+Guatemala,Chicago
+Guatemala,Kenya
+Guatemala,Poland
+Guatemala,Singapore
+Guatemala,Panama
+Panama,Singapore
+Panama,Bangladesh
+Panama,Otwa
+Panama,Mali
+Panama,Shanghai
+Panama,Afghanistan
+Panama,Yamalia
+Peru,Papua New Guinea
+Peru,Morocco
+Peru,Prince Regent National Park
+Peru,Lao
+Peru,Sweden
+Peru,Alaska
+Peru,India
+Peru,Iceland
+Venezuela,Portugal
+Venezuela,Shanghai
+Venezuela,Greenland
+Venezuela,Washington DC
+Venezuela,Romania
+Venezuela,Iran
+Venezuela,Madagascar
+Venezuela,Chad
+Venezuela,Falkland Islands
+Bolivia,Shanghai
+Bolivia,Moscow
+Bolivia,Otwa
+Bolivia,Edmonton
+Bolivia,Perth
+Bolivia,Prince Regent National Park
+Paraguay,Kazakhstan
+Paraguay,New Zealand
+Paraguay,Nunavut
+Paraguay,Chicago
+Paraguay,Iceland
+Paraguay,Mexico City
+Paraguay,South Africa
+Paraguay,Uruguay
+Uruguay,Singapore
+Uruguay,Churchill
+Uruguay,Otwa
+Uruguay,Angola
+Uruguay,New Zealand
+Uruguay,France
+Uruguay,Poland
+Uruguay,Mexico City
+Uruguay,Argentina
+Argentina,Yemen
+Argentina,Lao
+Argentina,Libya
+Argentina,Sweden
+Argentina,Edmonton
+Argentina,India
+French Guiana,Lao
+French Guiana,Guinea
+French Guiana,Hawaii
+French Guiana,Japan
+Falkland Islands,Labrador City
+Falkland Islands,Iraq
+Labrador City,Papua New Guinea
+Labrador City,India
+Labrador City,Singapore
+Labrador City,Nigeria
+Labrador City,Somalia
+Labrador City,Sydney
+Mexico City,Indonesia
+Mexico City,New Zealand
+Mexico City,Algeria
+Mexico City,Mecca
+Mexico City,Zimbabwe
+Mexico City,Prince Regent National Park
+Mexico City,Mongolia
+Antartica,Washington DC
+Antartica,Brunei
+Antartica,Shanghai
+Antartica,Chad
+Antartica,Chicago
+Japan,Nigeria
+Japan,Sweden
+Japan,Yukon
+Japan,South Africa
+Japan,Germany
+Japan,Poland
+Japan,Sydney
+Libya,Otwa
+Libya,California
+Libya,Churchill
+Libya,Singapore
+Libya,Nunavut
+Libya,Poland
+Simpson Desert,Mali
+Simpson Desert,Philippines
+Simpson Desert,Turkey
+Simpson Desert,Moscow
+Simpson Desert,South Africa
+Simpson Desert,Bangladesh
+Greenland,Mali
+Greenland,Nebraska
+Greenland,Yamalia
+Greenland,Qinghai
+Greenland,Sydney
+Greenland,Philippines
+South Africa,Edmonton
+South Africa,Sudan
+South Africa,Nigeria
+South Africa,Philippines
+South Africa,Yellowknife
+South Africa,Poland
+Washington DC,Perth
+Washington DC,Iraq
+Washington DC,Morocco
+Washington DC,Shanghai
+Washington DC,Beijing
+Washington DC,Romania
+Otwa,Romania
+Otwa,California
+Otwa,Putorana State Natural Reserve
+Otwa,Yukon
+Otwa,Afghanistan
+Otwa,Turkey
+Otwa,Lao
+Morocco,Yamalia
+Morocco,Portugal
+Morocco,Xinijiang
+Morocco,Nigeria
+Morocco,Kuwait
+Algeria,Mecca
+Algeria,Churchill
+Algeria,Yamalia
+Algeria,Gabon
+Tunisia,Singapore
+Tunisia,North Congo
+Tunisia,Perth
+Tunisia,Iran
+Tunisia,Philippines
+Tunisia,Churchill
+Tunisia,Kunming
+Tunisia,Kuwait
+Nigeria,Somalia
+Nigeria,Iraq
+Angola,Chicago
+Angola,Churchill
+Angola,Madagascar
+Kenya,Kazakhstan
+Kenya,Perth
+Yemen,Oman
+Yemen,Turkey
+Yemen,Mongolia
+Oman,Germany
+Oman,Perth
+Oman,Chad
+Oman,Xinijiang
+Oman,Congo
+Oman,Churchill
+Oman,Gabon
+Oman,North Korea
+Somalia,India
+Somalia,Chad
+Somalia,Germany
+India,Nebraska
+India,Germany
+North Korea,Kuwait
+North Korea,Mongolia
+Vietnam,Singapore
+Vietnam,Kunming
+Vietnam,France
+Vietnam,Zimbabwe
+Vietnam,Sweden
+Putorana State Natural Reserve,Alaska
+Putorana State Natural Reserve,Nebraska
+Putorana State Natural Reserve,Philippines
+Putorana State Natural Reserve,Xinijiang
+Putorana State Natural Reserve,Cairns
+Lao,Regina
+Lao,Iraq
+Lao,Turkey
+Lao,Poland
+Lao,Indonesia
+Lao,Chicago
+Perth,France
+Perth,Germany
+Perth,Sydney
+Perth,Hawaii
+Perth,Romania
+Perth,North Pole
+Perth,North Congo
+New Zealand,Yellowknife
+New Zealand,Cairns
+New Zealand,Mecca
+Indonesia,Kazakhstan
+Indonesia,Bangladesh
+Indonesia,France
+Philippines,Romania
+Philippines,Hawaii
+Philippines,Qinghai
+Philippines,Kazakhstan
+Philippines,Singapore
+Brunei,North Congo
+Brunei,Afghanistan
+Brunei,Nunavut
+Brunei,Poland
+Brunei,California
+Singapore,Moscow
+Singapore,Chad
+Singapore,Sydney
+Papua New Guinea,Regina
+Papua New Guinea,Sydney
+Mali,Moscow
+Hawaii,Congo
+Hawaii,Turkey
+Chicago,Nunavut
+Chicago,Shanghai
+Chicago,Bangladesh
+Chicago,Kuwait
+Chicago,Congo
+Chicago,Yukon
+Kunming,UK
+Kunming,France
+Kunming,Edmonton
+Kunming,Bangladesh
+Kunming,Congo
+Kunming,Kazakhstan
+Kunming,Sweden
+Kuwait,California
+North Congo,Kazakhstan
+North Congo,Romania
+North Congo,Nebraska
+North Congo,Sydney
+North Congo,Nunavut
+Yukon,Romania
+Yukon,Sudan
+Yukon,Sydney
+Yukon,UK
+Alaska,Turkey
+Alaska,Mecca
+Nunavut,Iran
+Nunavut,France
+Nebraska,Moscow
+Nebraska,Kazakhstan
+Nebraska,Mecca
+California,Afghanistan
+UK,Congo
+UK,Cairns
+North Pole,Sudan
+North Pole,Yamalia
+North Pole,Romania
+North Pole,Kazakhstan
+Iceland,Taiwan
+Iceland,Congo
+Iceland,France
+France,Iraq
+Portugal,Churchill
+Germany,Afghanistan
+Germany,Shanghai
+Germany,Xinijiang
+Sweden,Chad
+Sweden,Shanghai
+Sweden,Turkey
+Moscow,Mongolia
+Poland,Edmonton
+Poland,Congo
+Poland,Iran
+Afghanistan,Guinea
+Afghanistan,Cairns
+Afghanistan,Taiwan
+Mongolia,Beijing
+Beijing,Taiwan
+Beijing,Prince Regent National Park
+Sydney,Madagascar
+Prince Regent National Park,Zimbabwe
+Bangladesh,Guinea
+Taiwan,Shanghai
+Taiwan,Chad
+Taiwan,Mecca
+Iraq,Zimbabwe
+Iran,Edmonton
+Zimbabwe,Churchill
